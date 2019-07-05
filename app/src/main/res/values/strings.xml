@@ -1,0 +1,64 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Katalog Film</string>
+
+    <string name="navigationopen">Open navigation drawer</string>
+    <string name="navigationclose">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="judul">Judul</string>
+    <string name="rilis">Tanggal Rilis </string>
+    <string name="tglrilis">Senin, 16 Jul 2018</string>
+    <string name="ratingf">Rating Film  </string>
+    <string name="rating">Rating</string>
+    <string name="bhs">Bahasa Asli </string>
+    <string name="bhsasl">Bahasa</string>
+    <string name="sinopsis">OVERVIEW</string>
+    <string name="detail">detail</string>
+    <string name="jdlats">Judul Atas</string>
+    <string name="hasil">: pencarian</string>
+    <string name="detail2">this is the description of the movie</string>
+    <string name="suka">Suka</string>
+    <string name="bagi">Bagi</string>
+    <string name="jdlnav">Katalog Film</string>
+    <string name="subjdlnav">wahyuirgan12@gmail.com</string>
+    <string name="now_playing">Terkini</string>
+    <string name="upcoming">Mendatang</string>
+    <string name="home">Beranda</string>
+    <string name="search">Cari</string>
+    <string name="nodesc">Tidak Ditemukan</string>
+    <string name="tampil">Menampilkan</string>
+    <string name="pencari">Pencarian :</string>
+    <string name="pencari2" tools:ignore="Typos">: Film Populer"</string>
+    <string name="fav">Favorite</string>
+    <string name="save">Tambah ke Favorite</string>
+    <string name="remove">Hapus dari Favorite</string>
+    <string name="nofav">Tidak Ada Film Favorite</string>
+    <string name="dialog_message_add">Apakah kamu mau menambahkan film ini ke favorite kamu?</string>
+    <string name="dialog_message_remove">Apakah kamu mau menghapus film ini dari favorite kamu?</string>
+    <string name="toast_add">Ditambahkan ke Favorite</string>
+    <string name="toast_remove">Dihapus dari Favorite</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="search_hint" tools:ignore="TypographyEllipsis">Masukkan Kata...</string>
+    <string name="search_movie" tools:ignore="MissingTranslation">Cari Film</string>
+    <string name="appwidget_text">Film Favorite</string>
+    <string name="no_item">Tidak ada item</string>
+    <string name="msg_daily_reminder">Hai, aplikasi Katalog Film menunggumu!!!</string>
+    <string name="upcoming_reminder_msg">Hai, hari ini %s rilis!!!</string>
+    <string name="key_daily_reminder">Pengingat Harian</string>
+    <string name="key_upcoming_reminder">Pengingat Mendatang</string>
+    <string name="key_setting_locale">Setting Locale</string>
+    <string name="notification">Notifikasi</string>
+    <string name="setting">Pengaturan</string>
+    <string name="alarm_upcoming">Pengingat Notifikasi Film yang akan datang</string>
+    <string name="alarm_daily_notif">Notifikasi Pengingat Harian</string>
+    <string name="summary_daily">Hidupkan / Matikan Pengingat Harian</string>
+    <string name="summary_upcoming">Hidupkan / Matikan Pengingat Mendatang</string>
+    <string name="summary_locale">Ganti Locale</string>
+    <string name="message_setup_daily">Pengingat Harian Diaktifkan</string>
+    <string name="message_cancel_daily">Pengingat Harian Dinonaktifkan</string>
+    <string name="message_setup_upcoming">Pengingat Mendatang Diaktifkan</string>
+    <string name="message_cancel_upcoming">Pengingat Mendatang Dinonaktifkan</string>
+    <string name="err_load_failed">Pemuatan Gagal</string>
+</resources>

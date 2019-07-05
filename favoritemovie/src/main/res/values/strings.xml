@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Favorite Movie</string>
+
+    <string name="judul">Judul</string>
+    <string name="rilis">Tanggal Rilis </string>
+    <string name="tglrilis">Senin, 16 Jul 2018</string>
+    <string name="detail2">this is the description of the movie</string>
+    <string name="nodesc">Tidak Ditemukan</string>
+    <string name="suka">Suka</string>
+    <string name="bagi">Bagi</string>
+    <string name="ratingf">Rating Film  </string>
+    <string name="rating">Rating</string>
+    <string name="bhs">Bahasa Asli </string>
+    <string name="bhsasl">Bahasa</string>
+    <string name="jdlats">Judul Atas</string>
+    <string name="sinopsis">OVERVIEW</string>
+    <string name="detail">detail</string>
+</resources>
